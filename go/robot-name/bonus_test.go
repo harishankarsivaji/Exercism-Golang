@@ -4,7 +4,7 @@ package robotname
 
 import "testing"
 
-var maxNames = 26 * 26 * 10 * 10 * 10
+//var maxNames = 26 * 26 * 10 * 10 * 10
 
 func TestCollisions(t *testing.T) {
 	// Test uniqueness for new robots.
